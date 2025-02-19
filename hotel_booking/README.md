@@ -44,7 +44,7 @@ hotel_booking/
 ## Installation & Setup
 1. Clone the Repository
 
-git clone https: 
+git clone https: https://github.com/Ranji-98/hotel_room_booking.git
 
 2.Install Dependencies
 npm install
